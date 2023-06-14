@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "React",
+			"path": "."
+		},
+		{
+			"name": "context",
+			"path": "../new/context"
+		}
+	],
+	"settings": {}
+}
